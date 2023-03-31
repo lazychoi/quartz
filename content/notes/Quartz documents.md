@@ -1,3 +1,7 @@
+---
+title: "Quartz Documents"
+---
+
 - [[philosophy]]
 - [[setup]]
 - [[obsidian]]
