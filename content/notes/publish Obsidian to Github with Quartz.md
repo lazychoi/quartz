@@ -61,4 +61,3 @@ git, github, obsidian
 
 13. config.toml 파일의 baseURL에 깃허브 주소 입력하기. 주소 끝에 '/'를 꼭 붙여야 함.
 14. deploy.yaml 파일의 cname에 깃허브 주소 입력하기. 주소 끝에 '/'를 붙이면 안 됨
-15. 
