@@ -26,7 +26,7 @@ git, github, obsidian
 
 5. Obsidian 링크 설정
 
-![[images/Pasted image 20230331194040.png]]
+![[notes/images/Pasted image 20230331224707.png]]
 
 6. 새 파일을 만들 때마다 문서 상단에 yml 설정 문구 넣는 템플릿 사용
 
