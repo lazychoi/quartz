@@ -3,8 +3,9 @@ title: 🪴 ^^
 enableToc: false
 ---
 
-- [[publish Obsidian to Github with Quartz]]
-- [[Quartz documents]]
+## 지식 관리
 
+- [[notes/publish Obsidian to Github with Quartz]]
+- [[notes/Quartz documents]]
 
 
