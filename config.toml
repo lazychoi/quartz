@@ -1,5 +1,5 @@
 baseURL = "https://lazychoi.github.io/quartz/"
-languageCode = "en-us"
+languageCode = "ko-kr"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
