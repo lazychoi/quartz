@@ -207,10 +207,10 @@ For example, the structure of the home page can be edited through `/layouts/inde
 
 More info about partials on [Hugo's website.](https://gohugo.io/templates/partials/)
 
-Still having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).
+Still having problems? Checkout our [FAQ and Troubleshooting guide](tools/troubleshooting.md).
 
 ## Language Support
-[CJK Latex Support](CJK%20Latex%20Support.md) comes out of the box with Quartz.
+[CJK Latex Support](tools/CJK%20Latex%20Support.md) comes out of the box with Quartz.
 
 Want to support languages that read from right-to-left (like Arabic)? Hugo (and by proxy, Quartz) supports this natively.
 

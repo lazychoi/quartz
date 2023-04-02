@@ -1,4 +1,4 @@
-name: ^^ 
+name: Lazychoi 
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -19,7 +19,7 @@ search:
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
 page_title:
-  "🪴 ^^"
+  "🪴 hello^^"
 links:
   - link_name: 
     link: 
