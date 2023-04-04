@@ -3,6 +3,10 @@ title: 🪴 hello^^
 enableToc: false
 ---
 
+## 프로그래밍
+
+- [[python/_index_python]]
+
 ## 지식 관리
 
 - [[tools/Quartz를 이용해 Obsidian을 Github으로 올리기]]
